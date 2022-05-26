@@ -1,1 +1,1 @@
-Display the contents of your current directory in long format
+Write a script that prints the effective username of the current use
