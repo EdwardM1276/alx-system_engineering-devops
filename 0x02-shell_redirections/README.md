@@ -1,1 +1,1 @@
-hello world acript
+hello world script
